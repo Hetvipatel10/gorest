@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b205ef2-7642-4971-b4da-a734860c348f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorest/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorest/model/PostsPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorest/model/UserPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorest/utils/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gorest/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorest/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorest/crudtest/UserCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorest/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorest/testsuite/PostsAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorest/testsuite/PostsExtractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorest/testsuite/UserAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/gorest/testsuite/UserExtractionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2M6fyoYbAFzpidNzE42VdI57Z7k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.UserCRUDTest.CreateStore">
+    <configuration name="PostsExtractionTest.verifybody" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testsuite.PostsExtractionTest" />
+      <option name="METHOD_NAME" value="verifybody" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsExtractionTest.verifytitleofid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testsuite.PostsExtractionTest" />
+      <option name="METHOD_NAME" value="verifytitleofid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsExtractionTest.verifytitleofrecords" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testsuite.PostsExtractionTest" />
+      <option name="METHOD_NAME" value="verifytitleofrecords" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCRUDTest.CreateStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.crudtest.UserCRUDTest" />
+      <option name="METHOD_NAME" value="CreateStore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserCRUDTest.GetAllRecord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.crudtest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.crudtest" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.crudtest.UserCRUDTest" />
+      <option name="METHOD_NAME" value="GetAllRecord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserCRUDTest.CreateStore" />
+        <item itemvalue="JUnit.UserCRUDTest.GetAllRecord" />
+        <item itemvalue="JUnit.PostsExtractionTest.verifytitleofid" />
+        <item itemvalue="JUnit.PostsExtractionTest.verifybody" />
+        <item itemvalue="JUnit.PostsExtractionTest.verifytitleofrecords" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b205ef2-7642-4971-b4da-a734860c348f" name="Changes" comment="" />
+      <created>1677093210134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677093210134</updated>
+    </task>
+    <servers />
+  </component>
+</project>
